@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  border: solid;
+  width: 80%;
+  padding: 0.8rem;
+  margin-bottom: 1rem;
+}
+.inlineEmoji {
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
